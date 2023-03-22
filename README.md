@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+## Introduce
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+配置 Vite + Vue3 + tailwind
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 參考資料
+- [An Introduction To Object Oriented CSS (OOCSS) — Smashing Magazine](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+- [postcss/postcss: Transforming styles with JS plugins](https://github.com/postcss/postcss)
+- [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+- [Brotli and Static Compression | CSS-Tricks - CSS-Tricks](https://css-tricks.com/brotli-static-compression/)
+- [Challenging CSS Best Practices — Smashing Magazine](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/)
+- [淺談 Atomic CSS 的發展背景與 Tailwind CSS - Huli's blog](https://blog.huli.tw/2022/05/23/atomic-css-and-tailwind-css/)
